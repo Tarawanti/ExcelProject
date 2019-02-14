@@ -1,0 +1,8 @@
+c:\users\tk\source\repos\ExcelProject\ExcelProject\bin\Debug\ExcelProject.exe.config
+c:\users\tk\source\repos\ExcelProject\ExcelProject\bin\Debug\ExcelProject.exe
+c:\users\tk\source\repos\ExcelProject\ExcelProject\bin\Debug\ExcelProject.pdb
+c:\users\tk\source\repos\ExcelProject\ExcelProject\obj\Debug\ExcelProject.csprojAssemblyReference.cache
+c:\users\tk\source\repos\ExcelProject\ExcelProject\obj\Debug\ExcelProject.csproj.CoreCompileInputs.cache
+c:\users\tk\source\repos\ExcelProject\ExcelProject\obj\Debug\ExcelProject.exe
+c:\users\tk\source\repos\ExcelProject\ExcelProject\obj\Debug\ExcelProject.pdb
+c:\users\tk\source\repos\ExcelProject\ExcelProject\obj\Debug\ExcelProject.csproj.ResolveComReference.cache
